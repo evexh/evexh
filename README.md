@@ -5,4 +5,4 @@
 - Estou me desenvolvendo na linguagem JavaScript (tenho essa dúvida se estou mesmo)
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-### ![miles-morales-miles](https://github.com/user-attachments/assets/a21495e6-a6b0-4bce-a990-56fd0e78b89c)
+![](https://media1.tenor.com/m/VPFSMg7D114AAAAd/miles.gif)
